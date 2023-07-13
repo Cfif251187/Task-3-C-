@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\bin\Debug\net6.0\2Rasstoyanie.exe
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\bin\Debug\net6.0\2Rasstoyanie.deps.json
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\bin\Debug\net6.0\2Rasstoyanie.runtimeconfig.json
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\bin\Debug\net6.0\2Rasstoyanie.dll
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\bin\Debug\net6.0\2Rasstoyanie.pdb
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.dll
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\refint\2Rasstoyanie.dll
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.pdb
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\2Rasstoyanie.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\Task 3 C#\2Rasstoyanie\obj\Debug\net6.0\ref\2Rasstoyanie.dll
